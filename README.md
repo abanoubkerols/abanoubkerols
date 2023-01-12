@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm abanoubkerols</h1>
 <h3 align="center">A passionate software developer from Egypt</h3>
 
+
+<a href="https://app.daily.dev/Abanoub_Kerols"><img src="https://api.daily.dev/devcards/02e94e6b157a4aa6831fc8f6d5871b29.png?r=g97" width="400" alt="Abanoub Kerols's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abanoubkerols&label=Profile%20views&color=0e75b6&style=flat" alt="abanoubkerols" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abanoubkerols" alt="abanoubkerols" /></a> </p>

@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbanoubKerols</h1>
-<h3 align="center">A passionate software developer from Egypt</h3>
-
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 <a href="https://app.daily.dev/Abanoub_Kerols"><img src="https://api.daily.dev/devcards/02e94e6b157a4aa6831fc8f6d5871b29.png?r=g97" width="400" alt="Abanoub Kerols's Dev Card"/></a>
 
